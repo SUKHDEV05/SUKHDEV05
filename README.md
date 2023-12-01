@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![royalturd's github stats](https://github-readme-stats.vercel.app/api?username=SUKHDEV05)](https://github.com/SUKHDEV05)  
+
+<img src="https://raw.githubusercontent.com/royalturd/royalturd/master/gif/coding.gif" alt="coding ?">
